@@ -24,13 +24,11 @@ localhost:3000
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
-* [ccxt](http://www.dropwizard.io/1.0.2/docs/) - Enlace con las API Binance.
-* [webpack](https://maven.apache.org/) - Manejador de dependencias.
-* [express](https://rometools.github.io/rome/) 
-* [lightweight-charts](https://rometools.github.io/rome/) - Usado para generar las gráficas. 
-* [babel] () - Usado para la compatibilidad con la últimas version de javascript y NodeJS.
+* [ccxt](https://github.com/ccxt/ccxt) - Enlace con las API Binance.
+* [webpack](https://webpack.js.org/) - Manejador de dependencias.
+* [express](https://github.com/expressjs/express) 
+* [lightweight-charts](https://github.com/tradingview/lightweight-charts) - Usado para generar las gráficas. 
+* [babel](https://github.com/babel/babel)- Usado para la compatibilidad con la últimas version de javascript y NodeJS.
 
 
 ## Versionado 📌
