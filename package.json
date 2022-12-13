@@ -15,7 +15,7 @@
     "@fortawesome/fontawesome-free": "^5.13.1",
     "ccxt": "^1.28.48",
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "lightweight-charts": "^2.0.0",
     "morgan": "^1.10.0"
   },
